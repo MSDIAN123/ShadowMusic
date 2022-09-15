@@ -1,8 +1,8 @@
 {
-  "name": "Shadow Music",
+  "name": "𝑺𝒉𝒂𝒌𝒊𝒅𝒂 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
-  "repository": "https://github.com/TeamOfShadow/ShadowMusic",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+  "repository": "https://t.me/tamil_crazy_sani",
+  "logo": "https://telegra.ph//file/41a2e961e16edf120cd4e.jpg",
   "keywords": [
   "python3",
   "telegram",
@@ -12,7 +12,7 @@
   "telegram-bot",
   "pyrogram"
   ],
-  "repository": "https://github.com/TeamOfShadow/ShadowMusic",
+  "repository": "https://t.me/tamil_crazy_sani",
   "stack": "container",
   "env": {
     "API_ID": {
@@ -32,7 +32,7 @@
     },
     "DURATION_LIMIT": {
       "description": "Duration Limit for Playout (In Mins).. Example: 60",
-      "value": "60",
+      "value": "500",
       "required": true
     },
     "ASSISTANT_PREFIX": {
